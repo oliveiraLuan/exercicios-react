@@ -1,0 +1,14 @@
+header{
+    width: 100%;
+    height: 80px;
+    background-color: var(--primary-color-bg);
+    color: white;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+header h1{
+    margin-left: 80px;
+}
+

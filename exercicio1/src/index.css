@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Inter:wght@300;700&family=Open+Sans:wght@300;700&family=Poppins:wght@300;700&display=swap');
+
+:root{
+    --primary-color-bg: #FF2323;
+
+
+    --primary-color-font: #fff;
+    --secondary-color-font: #6F6F6F;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background-color: #DADADA;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,16 @@
+button{
+    background-color: var(--primary-color-bg);
+    color: white;
+    width: 150px;
+    height: 45px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+.container-button{
+    width: 960px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
